@@ -104,3 +104,9 @@ redemptions in total. Each account can redeem only once. If the code will not
 go through, it is probably full. Muse is currently open mainly to users in
 the US and Canada, and a code does not bypass regional availability or any
 waitlist. The tokens are usage credit, not cash, and cannot be withdrawn.
+
+
+## Read the companion articles
+- [My Morning With an AI Agent: Inbox First, Watchdogs Second, and One Rule That Never Changes](https://medium.com/@lrlnet168/my-morning-with-an-ai-agent-inbox-first-watchdogs-second-and-one-rule-that-never-changes-4149746ca356) — A morning routine built around inbox triage and watchdogs, with one rule that never changes.
+- [Muse Invite Code + Honest Review: What Meta's AI Agent Actually Does All Day](https://medium.com/@lrlnet168/muse-invite-code-honest-review-what-metas-ai-agent-actually-does-all-day-abd743d1b3aa) — An honest look at what Meta's AI agent actually does all day.
+- [I Let an AI Agent Run My Small Tasks for a Month. Here's What Actually Stuck](https://dev.to/lrlnet/i-let-an-ai-agent-run-my-small-tasks-for-a-month-heres-what-actually-stuck-3o5f) — What stuck after letting an AI agent run small tasks for a month.
