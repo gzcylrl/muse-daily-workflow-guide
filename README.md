@@ -103,7 +103,7 @@ bonus for up to 20 friends, and each code stops working after roughly 20–30
 redemptions in total. Each account can redeem only once. If the code will not
 go through, it is probably full. Muse is currently open mainly to users in
 the US and Canada, and a code does not bypass regional availability or any
-waitlist. The tokens are usage credit, not cash, and cannot be withdrawn. Remaining uses on my screen on 2026-11-28: 30. If it ever says the code is full, that count has changed — please try another valid code instead of retrying this one repeatedly.
+waitlist. The tokens are usage credit, not cash, and cannot be withdrawn. Remaining uses on my screen on 2026-11-28: 27. If it ever says the code is full, that count has changed — please try another valid code instead of retrying this one repeatedly.
 
 
 ## Read the companion articles
